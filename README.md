@@ -1,2 +1,10 @@
-# CSS-Navigation
-This is a document of how you can make a basic navigation using HTML and CSS. Please kindly check the ReadME file before accessing so you can understand where you can use the files at, it also list the serious actions taken for copyright of the code and using it on social media!
+*All terms and conditions apply
+
+This code can't be used for any video sharing etc, this is code for ideas of how to make
+a navigation bar using CSS. This code can be used, you can edit it yourself, but u can't
+use it social media platform. This will result into copyright and serious action. Otherwise,
+feel free to edit anything in the file the way you want
+
+
+©️ 2022 All rights reserved
+Made by AidenCodes!
